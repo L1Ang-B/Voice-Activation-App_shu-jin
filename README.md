@@ -7,18 +7,7 @@
 
 ## 中文 | [English](EN_README.md)
 
-### 使用
-点击APP，后台随机播放音频，不出现界面
-
-### 构建
-支持 Android 6 - 16  
-
-1. Github在线构建
-2. 本地开发环境参考：  
-    - Android Studio 25.1  
-    - JDK 17
-    - Android SDK 36
-    - Gradle 8.13
+点击APP，后台随机播放音频（可以自己改），不出现界面（跟具体手机型号有关，部分手机肯会“闪动”，界面打开一半就缩回）
 
 修改自项目：
 [SounderAPP](https://github.com/stand404/Sounder)
